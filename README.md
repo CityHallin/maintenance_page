@@ -1,2 +1,2 @@
-# maintenance_page
-Simple maintenance page resource
+# CityHallin Maintenance Page
+Simple repo just holding maintenance web page assets. 
